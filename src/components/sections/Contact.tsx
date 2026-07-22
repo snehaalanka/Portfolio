@@ -21,7 +21,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/drive/folders/1L_hyteq34I1GC_nmNh6cQSdT8sNlD9h0"
             target="_blank"
             className="group relative px-8 py-3 rounded-full border border-offwhite overflow-hidden hover:text-pureblack transition-colors duration-300 mb-24 inline-block"
           >

@@ -22,7 +22,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Sneha | Software Engineer",
+  title: "SnehaSree",
   description: "Portfolio of Sneha, Software Engineer building scalable web applications and AI-powered products.",
 };
 
